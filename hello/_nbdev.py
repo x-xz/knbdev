@@ -6,6 +6,6 @@ index = {}
 
 modules = []
 
-git_url = "https://github.com/x-xz/knbdev/tree/master/"
+git_url = "https://github.com/x-xz/hello/tree/master/"
 
 def custom_doc_links(name): return None
