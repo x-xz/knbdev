@@ -2,11 +2,9 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"BPSomeClass": "00_core.ipynb",
-         "bp_obj": "00_core.ipynb",
-         "bp_obj.attribute2": "00_core.ipynb"}
+index = {}
 
-modules = ["sync.py"]
+modules = []
 
 git_url = "https://github.com/x-xz/hello/tree/master/"
 
